@@ -1,2 +1,3 @@
 # Diwali_Sales_Analysis
-Analyze Diwali sales data to improve customer experience and sales by using Python
+Project Title: Diwali Sales Analysis
+Technologies Used: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook, Excel 
